@@ -1,2 +1,2 @@
 # TRS
-Trading Robot for Scalping
+# Trading Robot for Scalping
