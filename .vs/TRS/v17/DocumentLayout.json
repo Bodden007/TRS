@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\C#_DEV\\TRS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\interfaces\\iuserentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\interfaces\\iuserentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\interfaces\\istocksentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\interfaces\\istocksentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\interfaces\\ientrypointentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\interfaces\\ientrypointentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 421,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,13 +74,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEntryPointEntities.cs",
+              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IEntryPointEntities.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Interfaces\\IEntryPointEntities.cs",
+              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IEntryPointEntities.cs",
+              "RelativeToolTip": "src\\Models\\Interfaces\\IEntryPointEntities.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:57:05.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStocksEntities.cs",
+              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IStocksEntities.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Interfaces\\IStocksEntities.cs",
+              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IStocksEntities.cs",
+              "RelativeToolTip": "src\\Models\\Interfaces\\IStocksEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:45:40.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IUserEntities.cs",
+              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IUserEntities.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Interfaces\\IUserEntities.cs",
+              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IUserEntities.cs*",
+              "RelativeToolTip": "src\\Models\\Interfaces\\IUserEntities.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:33:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\C#_DEV\\TRS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAQAAAAgAAAA",
+              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Program.cs",
+              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Program.cs",
+              "RelativeToolTip": "src\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T12:07:13.589Z",
               "EditorCaption": ""
