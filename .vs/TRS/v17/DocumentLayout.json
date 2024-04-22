@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#_DEV\\TRS\\",
+  "WorkspaceRootPath": "C:\\Users\\karib\\source\\repos\\TRS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\interfaces\\iuserentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\interfaces\\iuserentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\users\\karib\\source\\repos\\trs\\src\\models\\entities\\share.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\entities\\share.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\users\\karib\\source\\repos\\trs\\src\\models\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\users\\karib\\source\\repos\\trs\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\interfaces\\istocksentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\interfaces\\istocksentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\interfaces\\ientrypointentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\interfaces\\ientrypointentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\users\\karib\\source\\repos\\trs\\src\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,19 @@
       "DocumentGroups": [
         {
           "DockedHeight": 421,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -38,7 +46,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -65,68 +77,56 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEntryPointEntities.cs",
-              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IEntryPointEntities.cs",
-              "RelativeDocumentMoniker": "src\\Models\\Interfaces\\IEntryPointEntities.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IEntryPointEntities.cs",
-              "RelativeToolTip": "src\\Models\\Interfaces\\IEntryPointEntities.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "Share.cs",
+              "DocumentMoniker": "C:\\Users\\karib\\source\\repos\\TRS\\src\\Models\\Entities\\Share.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Entities\\Share.cs",
+              "ToolTip": "C:\\Users\\karib\\source\\repos\\TRS\\src\\Models\\Entities\\Share.cs",
+              "RelativeToolTip": "src\\Models\\Entities\\Share.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T14:57:05.889Z",
+              "WhenOpened": "2024-04-22T15:05:16.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IStocksEntities.cs",
-              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IStocksEntities.cs",
-              "RelativeDocumentMoniker": "src\\Models\\Interfaces\\IStocksEntities.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IStocksEntities.cs",
-              "RelativeToolTip": "src\\Models\\Interfaces\\IStocksEntities.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karib\\source\\repos\\TRS\\src\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Program.cs",
+              "ToolTip": "C:\\Users\\karib\\source\\repos\\TRS\\src\\Program.cs",
+              "RelativeToolTip": "src\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T14:45:40.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IUserEntities.cs",
-              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IUserEntities.cs",
-              "RelativeDocumentMoniker": "src\\Models\\Interfaces\\IUserEntities.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IUserEntities.cs*",
-              "RelativeToolTip": "src\\Models\\Interfaces\\IUserEntities.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T14:33:18.864Z",
+              "WhenOpened": "2024-04-22T15:01:18.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Program.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Program.cs",
-              "RelativeToolTip": "src\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\karib\\source\\repos\\TRS\\src\\Models\\Entities\\Portfolio.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Entities\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\karib\\source\\repos\\TRS\\src\\Models\\Entities\\Portfolio.cs",
+              "RelativeToolTip": "src\\Models\\Entities\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:07:13.589Z",
+              "WhenOpened": "2024-04-22T14:48:09.629Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\karib\\source\\repos\\TRS\\src\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\karib\\source\\repos\\TRS\\src\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "src\\Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:39:06.574Z",
+              "EditorCaption": ""
             }
           ]
         }
