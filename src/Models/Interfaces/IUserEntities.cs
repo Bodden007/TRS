@@ -9,8 +9,25 @@ namespace TRS.src.Models.Interfaces
     
     internal interface IUserEntities
     {
-        decimal Money { get; set; }
-        string StocksTicker { get; set; }
-        int QuantityStocks { get; set; }
+        /// <summary>
+        /// пользователя
+        /// </summary>
+        int IdUser { get; set; }
+
+        /// <summary>
+        /// Login пользователя
+        /// </summary>
+        string Login { get; set; }
+
+        /// <summary>
+        /// Пароль пользователя
+        /// </summary>
+        string Passport {  get; set; }
+
+        /// <summary>
+        /// Токен пользователя
+        /// </summary>
+        string Token {  get; set; }
+
     }
 }
