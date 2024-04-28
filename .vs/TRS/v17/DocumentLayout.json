@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\C#_DEV\\TRS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\interfaces\\istockentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\interfaces\\istockentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|C:\\C#_DEV\\TRS\\src\\models\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|C:\\C#_DEV\\TRS\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|C:\\C#_DEV\\TRS\\src\\models\\interfaces\\ientrypointentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\interfaces\\ientrypointentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\interfaces\\iinvestmentpportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\interfaces\\iinvestmentpportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|c:\\c#_dev\\trs\\src\\models\\entities\\investmentportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056FCA2C-DA93-42E3-B3CE-0B1774FF9D8B}|TRS.csproj|solutionrelative:src\\models\\entities\\investmentportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 421,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,67 +69,47 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Portfolio.cs",
-              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Entities\\Portfolio.cs",
-              "RelativeDocumentMoniker": "src\\Models\\Entities\\Portfolio.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Entities\\Portfolio.cs*",
-              "RelativeToolTip": "src\\Models\\Entities\\Portfolio.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:57:09.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IEntryPointEntities.cs",
-              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IEntryPointEntities.cs",
-              "RelativeDocumentMoniker": "src\\Models\\Interfaces\\IEntryPointEntities.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IEntryPointEntities.cs",
-              "RelativeToolTip": "src\\Models\\Interfaces\\IEntryPointEntities.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T14:57:05.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Stock.cs",
-              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Entities\\Stock.cs",
-              "RelativeDocumentMoniker": "src\\Models\\Entities\\Stock.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Entities\\Stock.cs*",
-              "RelativeToolTip": "src\\Models\\Entities\\Stock.cs*",
-              "ViewState": "AQIAAAkAAAAAAAAAAAASwBEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T10:33:14.249Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IStockEntities.cs",
-              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IStockEntities.cs",
-              "RelativeDocumentMoniker": "src\\Models\\Interfaces\\IStockEntities.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IStockEntities.cs*",
-              "RelativeToolTip": "src\\Models\\Interfaces\\IStockEntities.cs*",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwAgAAAAlAAAA",
+              "Title": "IInvestmentPportfolio.cs",
+              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IInvestmentPportfolio.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Interfaces\\IInvestmentPportfolio.cs",
+              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Interfaces\\IInvestmentPportfolio.cs",
+              "RelativeToolTip": "src\\Models\\Interfaces\\IInvestmentPportfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T14:45:40.626Z",
+              "WhenOpened": "2024-04-28T11:36:29.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "InvestmentPortfolio.cs",
+              "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Models\\Entities\\InvestmentPortfolio.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Entities\\InvestmentPortfolio.cs",
+              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Models\\Entities\\InvestmentPortfolio.cs",
+              "RelativeToolTip": "src\\Models\\Entities\\InvestmentPortfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:33:29.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\C#_DEV\\TRS\\src\\Program.cs",
               "RelativeDocumentMoniker": "src\\Program.cs",
-              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Program.cs",
-              "RelativeToolTip": "src\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "ToolTip": "C:\\C#_DEV\\TRS\\src\\Program.cs*",
+              "RelativeToolTip": "src\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:07:13.589Z"
+              "WhenOpened": "2024-04-21T12:07:13.589Z",
+              "EditorCaption": ""
             }
           ]
         }
